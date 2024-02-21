@@ -5,7 +5,8 @@
 
 - summary: |
     Проверка успешной регистрации на сайте с помощью Discord
-    
+  status: pass 
+  
 - summary: |
     Проверка успешной регистрации на сайте с помощью Github
   status: pass
